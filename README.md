@@ -14,3 +14,21 @@ Criar uma aplicação funcional de gerenciamento de usuários e dados, implement
 - Autenticação e controle de sessão para usuários e administradores.
 - Operações CRUD utilizando PHP e MySQL.
 - Manipulação de formulários e requisições HTTP (GET, POST).
+
+## 📂 Estrutura do Repositório
+
+```plaintext
+.
+├── Controller/
+│   ├── AdministradorController.php
+│   ├── ExperienciaProfissionalController.php
+│   ├── FormacaoAcadController.php
+│   ├── Navegacao.php
+│   ├── OutrasFormacoesController.php
+│   └── UsuarioController.json
+├── Img/
+│   └── Enlatados.png
+├── Model/
+├── View/
+├── index.php
+└── README.md
