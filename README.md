@@ -25,10 +25,16 @@ Criar uma aplicação funcional de gerenciamento de usuários e dados, implement
 │   ├── FormacaoAcadController.php
 │   ├── Navegacao.php
 │   ├── OutrasFormacoesController.php
-│   └── UsuarioController.json
+│   └── UsuarioController.php
 ├── Img/
 │   └── Enlatados.png
 ├── Model/
+│   ├── Administrador.php
+│   ├── ConexaoBD.php
+│   ├── ExperienciaProfissional.php
+│   ├── FormacaoAcad.php
+│   ├── outrasformacoes.php
+│   └── Usuario.php
 ├── View/
 ├── index.php
 └── README.md
