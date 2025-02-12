@@ -36,5 +36,19 @@ Criar uma aplicação funcional de gerenciamento de usuários e dados, implement
 │   ├── outrasformacoes.php
 │   └── Usuario.php
 ├── View/
+│   ├── ADMListarAdministradores.php
+│   ├── ADMListarCadastrados.php
+│   ├── ADMLogin.php
+│   ├── ADMPrincipal.php
+│   ├── ADMVisualizarCadastro.php
+│   ├── atualizacaoRealizada.php
+│   ├── cadastroNaoRealizado.php
+│   ├── cadastroRealizado.php
+│   ├── informacaoExcluida.php
+│   ├── informacaoInserida.php
+│   ├── login.php
+│   ├── operacaoNaoRealizada.php
+│   ├── primeiroAcesso.php
+│   └── principal.php
 ├── index.php
 └── README.md
